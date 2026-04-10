@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog! clean up after yourself please.
+Greetings! : Welcome to my blog! clean up after yourself please.
 ---
 
 
